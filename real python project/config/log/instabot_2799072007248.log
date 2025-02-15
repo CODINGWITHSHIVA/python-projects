@@ -1,0 +1,7 @@
+2024-10-24 13:08:44,779 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2024-10-24 13:08:44,780 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\python37\Lib\site-packages\instabot\bot\bot.py
+2024-10-24 13:08:44,780 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2024-10-24 13:08:56,858 - instabot version: 0.117.0 (api) - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/get_prefill_candidates/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028BB8D9D050>: Failed to resolve 'i.instagram.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-24 13:09:16,634 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2024-10-24 13:09:31,178 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2024-10-24 13:09:49,845 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
